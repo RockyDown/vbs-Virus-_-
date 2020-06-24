@@ -2,6 +2,8 @@
 Windows运行virus.vbs即可。
 - 运行要求
   - Windows 7以上（不包括xp，macOS，OS X，Mac OS X）
+
+具体代码：
 ```vbs
 do
 msgbox "彩虹狗来啦???????", 1+64, "彩虹狗"
